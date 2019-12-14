@@ -49,3 +49,7 @@ hello there
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+~/repos/website/README.md
+ For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
