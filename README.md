@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello there 
 
 
@@ -53,3 +54,6 @@ hello there
 ~/repos/website/README.md
  For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+=======
+Hellot there
+>>>>>>> 1e4372b2bd0fcaa0315260c0b939f09c0ef82376
